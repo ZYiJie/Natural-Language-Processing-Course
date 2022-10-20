@@ -1,0 +1,8 @@
+﻿  StdAfx.cpp
+  ShowHZ.cpp
+d:\xunendong\自然语言处理\3\点阵\showhz\showhz.cpp(14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\xunendong\自然语言处理\3\点阵\showhz\showhz.cpp(66): warning C4007: “main”: 必须是“__cdecl”
+ShowHZ.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+  ShowHZ.vcxproj -> d:\Xunendong\自然语言处理\3\点阵\ShowHZ\.\Debug\ShowHZ.exe
+  ShowHZ.vcxproj -> .\Debug\ShowHZ.pdb (Full PDB)
